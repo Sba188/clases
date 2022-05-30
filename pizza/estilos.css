@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+header{
+    background-color: rgb(230, 97, 148);
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    display: flex;
+    color: rgb(87, 13, 13);
+    height: 50px;
+    display: center;
+    vertical-align: middle;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Smooch', cursive;
+} 
+.div1{
+    display: contents;
+}
+.div-b{
+    display: center;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Smooch', cursive;
+}
+.pedir{
+    width: 190px;
+    height: auto;
+    background-color: rgb(105, 243, 146);
+    border:none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#ul li{
+font-size: large;
+display: inline;
+
+}
+main{
+   
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: middle;
+    background-color: rgb(150, 183, 211);
+}
+
+fieldset{
+    height: 100px;
+    border-radius: 5px;
+}
+.divv{
+    border-radius: 90px;
+}
+
+.h3{
+    vertical-align: middle;
+    display: flex   ;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Smooch', cursive;
+}
+.input1{
+    background-color: aquamarine;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Smooch', cursive;
+
+}
+
+.fiel1{
+    background-color: rgb(81, 206, 179);
+    border-radius: 4px;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Smooch', cursive;
+}
+.fiel2{
+    background-color: rgba(45, 192, 192, 0.911);
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Smooch', cursive;
+}
+.fiel3{
+    background-color: rgb(44, 148, 148);
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Smooch', cursive;
+}
+.body{
+    background-color:crimson;
+}

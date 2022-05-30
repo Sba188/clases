@@ -1,0 +1,52 @@
+/*clases de CSS*/
+/* Selector de clases */
+.verde{
+    color: green;
+}
+.rojo{
+    color: red;
+}
+.header{
+    border: 2px solid  black;
+    color: rgb(0, 0, 0);
+    background-color: blueviolet;
+    height: 159px;
+
+    /*margin con 2 valores*/
+    margin: 5% 4px;
+    /*margen alos 4 lados de la caja */
+    margin: 20px;
+    /*lado izquierdo*/
+    margin-left: 20px;
+    /*lado derecho*/
+    margin-right: 20px;
+    /*arriba*/
+    margin-top: 20px;
+    /*abajo*/
+    margin-bottom: 20px;
+/*Aplico relleno a los4 lados del elementos */
+    padding: 4px;
+    /*padding-left , paddig-top,paddig-rigth,paddig-bottom : rellenos*/
+}
+.a{
+    color: rgb(100, 165, 47);
+}
+.nav{
+    border: 2px solid  rgb(209, 231, 12);
+    background-color: thistle;
+}
+.main{
+    height: 255px;
+    border: 2px solid  rgb(247, 6, 6);
+    background-color: cadetblue;
+}
+.aside{
+    border: 2px solid  rgb(223, 112, 22);
+    height: 100px;
+    background-color: springgreen;
+}
+.footer{
+    border: 2px solid  rgb(5, 227, 235);
+    height: 100px;
+    background-color: darkgoldenrod;
+}

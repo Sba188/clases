@@ -23,6 +23,7 @@ h1{
 } 
 .div1{
     display: contents;
+    
 }
 .div-b{
     display: center;
@@ -63,6 +64,7 @@ fieldset{
 }
 .divv{
     border-radius: 90px;
+
 }
 
 .h3{
@@ -74,7 +76,7 @@ fieldset{
 }
 .input1{
     background-color: aquamarine;
-    color: white;
+    color: rgb(0, 0, 0);
     font-family: 'Dancing Script', cursive;
     font-family: 'PT Sans', sans-serif;
     font-family: 'Smooch', cursive;
@@ -84,25 +86,30 @@ fieldset{
 .fiel1{
     background-color: rgb(81, 206, 179);
     border-radius: 4px;
-    color: white;
+    color: rgb(0, 0, 0);
     font-family: 'Dancing Script', cursive;
     font-family: 'PT Sans', sans-serif;
     font-family: 'Smooch', cursive;
+    height: 150px;
+    
 }
 .fiel2{
     background-color: rgba(45, 192, 192, 0.911);
-    color: white;
+    color: rgb(0, 0, 0);
     font-family: 'Dancing Script', cursive;
     font-family: 'PT Sans', sans-serif;
     font-family: 'Smooch', cursive;
 }
 .fiel3{
     background-color: rgb(44, 148, 148);
-    color: white;
+    color: rgb(0, 0, 0);
     font-family: 'Dancing Script', cursive;
     font-family: 'PT Sans', sans-serif;
     font-family: 'Smooch', cursive;
 }
 .body{
     background-color:crimson;
+}
+legend{
+font-size: xx-large;
 }
